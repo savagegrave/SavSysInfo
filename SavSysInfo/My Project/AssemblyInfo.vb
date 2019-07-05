@@ -9,9 +9,9 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("SavSysInfo")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("SavSysInfo")>
+<Assembly: AssemblyDescription("System Information DLL File for .NET Applictions in Visual Basic")>
+<Assembly: AssemblyCompany("Steven Houldey")>
+<Assembly: AssemblyProduct("SavSysInfo.DLL")>
 <Assembly: AssemblyCopyright("Copyright ©  2019")>
 <Assembly: AssemblyTrademark("")>
 

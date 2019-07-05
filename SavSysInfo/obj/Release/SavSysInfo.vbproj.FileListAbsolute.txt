@@ -1,0 +1,9 @@
+C:\Users\Savagegrave\source\repos\SavSysInfo\SavSysInfo\bin\Release\SavSysInfo.dll
+C:\Users\Savagegrave\source\repos\SavSysInfo\SavSysInfo\bin\Release\SavSysInfo.pdb
+C:\Users\Savagegrave\source\repos\SavSysInfo\SavSysInfo\bin\Release\SavSysInfo.xml
+C:\Users\Savagegrave\source\repos\SavSysInfo\SavSysInfo\obj\Release\SavSysInfo.Resources.resources
+C:\Users\Savagegrave\source\repos\SavSysInfo\SavSysInfo\obj\Release\SavSysInfo.vbproj.GenerateResource.cache
+C:\Users\Savagegrave\source\repos\SavSysInfo\SavSysInfo\obj\Release\SavSysInfo.vbproj.CoreCompileInputs.cache
+C:\Users\Savagegrave\source\repos\SavSysInfo\SavSysInfo\obj\Release\SavSysInfo.dll
+C:\Users\Savagegrave\source\repos\SavSysInfo\SavSysInfo\obj\Release\SavSysInfo.xml
+C:\Users\Savagegrave\source\repos\SavSysInfo\SavSysInfo\obj\Release\SavSysInfo.pdb
