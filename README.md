@@ -15,12 +15,12 @@ To use this .DLL files in Visual Basic, the function returns the values in an Ar
         MsgBox(SysInfo)
 ```
 
-(0) Displays the computer Name
-(1) OS Full Name
-(2) OS Version Numbers
-(3) OS Platform
-(4) Physical Memory
-(5) Virtual Memory.
+- (0) Displays the computer Name
+- (1) OS Full Name
+- (2) OS Version Numbers
+- (3) OS Platform
+- (4) Physical Memory
+- (5) Virtual Memory.
 
 <hr>
 More will be added very soon!
